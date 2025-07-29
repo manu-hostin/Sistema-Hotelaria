@@ -40,7 +40,6 @@ As funcionalidades incluem:
 
 2. Execute a classe principal:
 
-```bash
 java br.com.hotel.Main
 
 3. Use o menu exibido no terminal para:
