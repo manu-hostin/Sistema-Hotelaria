@@ -50,6 +50,7 @@ java br.com.hotel.Main
 - Sair do sistema digitando 0.
 
 🎯 Menu de Opções
+```bash
 === 🏨 MENU PRINCIPAL 🏨 ===
   ---  HOTEL PARAÍSO  --- 
  1. Cadastrar hóspede;
@@ -60,7 +61,7 @@ java br.com.hotel.Main
 ---------------------------
  0. Sair.
 ============================
-
+```
 
 🙋‍♂️ Contato
 Qualquer dúvida ou sugestão, entre em contato!
